@@ -2,8 +2,6 @@
 
 https://fontawesome.com/
 
-## Projeto feito no canal DARK CODE
-
 ## Página
 
 - [x] Página leve
