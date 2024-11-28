@@ -11,5 +11,3 @@ https://fontawesome.com/
 - [x] Mostrar Horário que abre e fecha a loja
 - [x] Número de telefone da loja
 - [x] Email da loja
-
-Nome do canal que tirei o projeto: https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw
